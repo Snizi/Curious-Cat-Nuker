@@ -1,0 +1,23 @@
+
+
+                              [[yellow]]___         _                [[magenta]]___      _    [[yellow]] _  _      _
+                             [[yellow]]/ ___  _ _ _(_)___ _  _ ___  [[magenta]]/ __|__ _| |_  [[yellow]]| \| |_  _| |_____ _ _
+                            [[yellow]]| (_| || | '_| / _ | || (_-< [[magenta]]| (__/ _` |  _| [[yellow]]| .` | || | / / -_| '_|
+                             [[yellow]]\___\_,_|_| |_\___/\_,_/__/  [[magenta]]\___\__,_|\__| [[yellow]]|_|\_|\_,_|_\_\___|_|
+
+
+                                            [[magenta]]              _
+                                            [[magenta]]              \`*-.
+                                            [[magenta]]               )  _`-.
+                                            [[magenta]]              .  : `. .
+                                            [[magenta]]              : _   '  \
+                                            [[magenta]]              ; *` _.   `*-._
+                                            [[magenta]]              `-.-'          `-.
+                                            [[magenta]]                ;       `       `.
+                                            [[magenta]]                :.       .        \
+                                            [[magenta]]                . \  .   :   .-'   .
+                                            [[magenta]]                '  `+.;  ;  '      :
+                                            [[magenta]]                :  '  |    ;       ;-.
+                                            [[magenta]]                ; '   : :`-:     _.`* ;
+                                            [[magenta]]       [bug] .*' /  .*' ; .*`- +'  `*'
+                                            [[magenta]]             `*-*   `*-*  `*-*'         [[white]]
