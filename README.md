@@ -3,7 +3,6 @@
 A tool for sending a lot of repeated messages to somebody's Curious Cat.
 
 ### Prerequisites
-#Markdown
 - Python 3.x
 
 ### Installing
@@ -23,7 +22,6 @@ A tool for sending a lot of repeated messages to somebody's Curious Cat.
 
 
 ## Running the script
-#Markdown
 - Navigate using the Command Prompt(Windows) or the Terminal(Linux) to the folder where the project is located
 - Type * [python main.py]
 - Type the Curious Cat user:
