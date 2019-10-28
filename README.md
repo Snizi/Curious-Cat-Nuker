@@ -12,12 +12,12 @@ A tool for sending a lot of repeated messages to somebody's Curious Cat.
 - Paste it on proxies.txt
 - Be sure that all the necessary modules listed bellow are installed
 
-* [requests]
-* [threading]
-* [time]
-* [random]
-* [string]
-* [os]
+* requests
+* threading
+* time
+* random
+* string
+* os
 
 
 ## Running the script
