@@ -51,7 +51,7 @@ def RandomString():
 
 
 def SendQuestions(ccUser, message, proxy):
-    url = 'https://curiouscat.me/api/v2/post/create'
+    url = 'https://curiouscat.qa/api/v2/post/create'
 
 
     while True:
